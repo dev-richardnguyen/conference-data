@@ -1,0 +1,26 @@
+{
+  "info": {
+    "name": "HỘI NGHỊ KHOA HỌC LÃO KHOA QUỐC GIA LẦN THỨ VI NĂM 2025",
+    "time": "Ngày 07 & 08 tháng 11 năm 2025",
+    "place": "Khách sạn Sài Gòn Hạ Long, 168 đường Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh",
+    "address": "Số 1A, Phố Phương Mai, Quận Đống Đa, TP. Hà Nội.",
+    "phone": "0903.276.386 / 0913.531.579",
+    "email": "hoilaokhoavietnam1@gmail.com",
+    "website": "https://hoilaokhoavietnam.vn/",
+    "info_support": ["PGS.TS. Vũ Thị Thanh Huyền\nĐT: 0913 531 579\nEmail: vuthanhhuyen11@yahoo.com",  "BS. Nguyễn Thị Thu Hương\nĐT: 0973 056 334\nEmail: nguyenthuhuong.hmu@gmail.com", "CN. Nguyễn Lan Anh\nĐT: 0982 470 029\nEmail: min_moon85@yahoo.com"]
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "Thông báo số 1 - HỘI NGHỊ KHOA HỌC LÃO KHOA QUỐC GIA LẦN THỨ VI NĂM 2025",
+      "image": "https://hoilaokhoavietnam.vn/upload/2025/7/small/c202577103955o63sb.png",
+      "pdf": "https://hoilaokhoavietnam.vn/upload/2025/7/small/c20257710405o63sb.pdf"
+    },
+    {
+      "id": 2,
+      "title": "HỘI THẢO KHOA HỌC CẤP CHUYÊN GIA - SANOFI",
+      "image": "https://hoilaokhoavietnam.vn/upload/2025/7/small/c202579135711a17sb.png",
+      "pdf": "https://hoilaokhoavietnam.vn/upload/2025/7/small/c202579135658ydtsb.pdf"
+    }
+  ]
+}
